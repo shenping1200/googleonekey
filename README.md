@@ -9,8 +9,9 @@
 - 部署 Xmrig 多线程挖矿
 
 ## 使用方法
-bash
+```bash
+
 bash <(wget -qO- https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
 
-bash
+```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
