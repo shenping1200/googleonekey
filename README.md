@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-```bash
-wget https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh
-chmod +x Googleonekey.sh
-./Googleonekey.sh
+bash <(wget -qO- https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
+
+
+bash <(curl -fsSL https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
