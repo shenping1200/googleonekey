@@ -13,6 +13,9 @@
 
 bash <(wget -qO- https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
 
-## 使用方法
+
+
+## 使用方法二
 ```bash
+
 bash <(curl -fsSL https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh)
