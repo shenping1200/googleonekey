@@ -11,6 +11,6 @@
 ## 使用方法
 
 ```bash
-wget https://raw.githubusercontent.com/你的GitHub用户名/Googleonekey/main/Googleonekey.sh
+wget https://raw.githubusercontent.com/shenping120/Googleonekey/main/Googleonekey.sh
 chmod +x Googleonekey.sh
 ./Googleonekey.sh
